@@ -15,6 +15,35 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4" />](https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4)
 
+
+
+![https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png](https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png)
+
+![https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png](https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png)
+
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-diving-header-june-12-6753651837111094.3-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-diving-header-june-12-6753651837111094.3-2xa.gif) 
+
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif)
+
+![https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif)
+
+[@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
+<img  alt="image" src="https://github.com/user-attachments/assets/a7d87fec-0558-4294-9237-d5c2c5ef2963" />
+
+
+
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a7b2c8fa-5741-43e8-a532-0efe75971693" />
+
+
+## Drought Planning @CityOfLosANgeles
+[svs.gsfc.nasa.gov/](https://svs.gsfc.nasa.gov/)
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A339564318&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-new-york-reality-check-101-1997" title="DJ Premier: New York Reality Check 101 (1997)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier: New York Reality Check 101 (1997)</a></div>
+
+
 ```
 
 <video controls width="400" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
