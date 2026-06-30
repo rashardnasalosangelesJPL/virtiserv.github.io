@@ -25,6 +25,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 </video>
 
 
+<img  alt="GIOVANNI-outputFnWi8n7d" src="https://github.com/user-attachments/assets/8b17a81d-f7e1-4ac8-a8e1-3f09c396c64b" />
+
+<img   alt="GIOVANNI-output0k1Wzuxo" src="https://github.com/user-attachments/assets/f449d0c3-8646-4353-be89-e1a225ff63c6" />
+
 [@la-county-isd lavote.gov/home/voting-elections/current-elections/election-results/live-results](https://www.lavote.gov/home/voting-elections/current-elections/election-results/live-results)
 <img  alt="image" src="https://github.com/user-attachments/assets/0bac2b9c-5a8c-43c7-837f-7e9ad7d84b29" />
 
