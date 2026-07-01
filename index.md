@@ -10,6 +10,19 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [Spirit of Discernment `SomeOtherTime` @nasa-pds @stateofcalifornia @cityoflosangeles - miss jill `scott`](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
 
+
+Reminder! Your Earthdata Webinar is Today
+Thank you for registering for [STREAM – Satellite Monitoring of Water Quality](https://ladsweb.modaps.eosdis.nasa.gov/stream/) for Inland and Coastal Waters Using Machine Learning.
+
+Join us as we explore how the models behind the Satellite-based analysis Tool for Rapid Evaluation of Aquatic environMents (STREAM) work, what the data looks like, and how to use STREAM to access it.
+
+Date: July 1, 2026
+Time: 2:00 pm ET
+<img  alt="image" src="https://github.com/user-attachments/assets/0176f20c-1f9f-4f34-ab2a-89eeaceaf1bd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c9935d9-9a09-4f0a-b3a7-1b6abd4cd72d" />
+
+
 # AnimalFarm 1954
 
 [imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit @NBCNEWS ](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) [@hOWARD-uNIVERSITY-Web-Services @nasa-pds ~ > LANAhaRRIS](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/) // [@foratlanta](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
