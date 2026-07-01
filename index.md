@@ -22,6 +22,7 @@ Time: 2:00 pm ET
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9c9935d9-9a09-4f0a-b3a7-1b6abd4cd72d" />
 
+<img   alt=" @nbcnews @usatoday @newshour @nasa-jpl @la-county-isd " src="https://github.com/user-attachments/assets/f19655ee-0ee3-4277-bc1a-952181851009" />
 
 
 
