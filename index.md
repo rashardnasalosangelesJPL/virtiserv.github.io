@@ -23,6 +23,16 @@ Time: 2:00 pm ET
 <img  alt="image" src="https://github.com/user-attachments/assets/9c9935d9-9a09-4f0a-b3a7-1b6abd4cd72d" />
 
 
+
+
+@emit-sds @nasa-giss
+@nasa-openscapes @howard-university-web-services @blackgirlscode @cityoflosangeles 
+[https://teams.microsoft.com/v2/?meetingjoin=true#/meet/243001884603508?p=BuSuimKs4b5RayYfDp&anon=true&lightExperience=true&correlationId=ff7523ba-787a-41bf-9661-a37dc1eb13f4&anon=true&deeplinkId=06b9970a-fd04-46f6-8580-f00807378d35&launchAgent=join_launcher_web](https://teams.microsoft.com/v2/?meetingjoin=true#/meet/243001884603508?p=BuSuimKs4b5RayYfDp&anon=true&lightExperience=true&correlationId=ff7523ba-787a-41bf-9661-a37dc1eb13f4&anon=true&deeplinkId=06b9970a-fd04-46f6-8580-f00807378d35&launchAgent=join_launcher_web) ///////// [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13209686.60/4627701.60&layers=aqv_chla_20260611_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13209686.60/4627701.60&layers=aqv_chla_20260611_sentinel:1.00:0.00:30.00:default)
+<img  alt="image" src="https://github.com/user-attachments/assets/f5f8c1dc-90ca-4092-bea3-01126f79e905" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/dc79359d-1698-4d4c-830a-07e216733b82" />
+
 # AnimalFarm 1954
 
 [imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit @NBCNEWS ](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) [@hOWARD-uNIVERSITY-Web-Services @nasa-pds ~ > LANAhaRRIS](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/) // [@foratlanta](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
