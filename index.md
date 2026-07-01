@@ -10,6 +10,64 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [Spirit of Discernment `SomeOtherTime` @nasa-pds @stateofcalifornia @cityoflosangeles - miss jill `scott`](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
 
+
+
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm" />](https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8358d59d-94c8-4530-8a99-fb52662edb1a" />
+[SCREENSHARE https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm](https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm)
+
+
+@esa There is an article about Sentinel1 going offline . . . OPERA Dynamic Surface Water Extent from Sentinel-1 (Version 1) was just covered in the other class is the dataproduct getting discontinued ? @nasa-pds
+[esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A)
+ @nasa-openscapes @podaac @nasa-jpl . . @la-county-isd
+<img alt="image" src="https://github.com/user-attachments/assets/f1584c40-e70e-49ce-9e98-8f7a0f44e717" />
+
+
+Reminder! Your Earthdata Webinar is Today
+Thank you for registering for [STREAM – Satellite Monitoring of Water Quality](https://ladsweb.modaps.eosdis.nasa.gov/stream/) for Inland and Coastal Waters Using Machine Learning.
+
+Join us as we explore how the models behind the Satellite-based analysis Tool for Rapid Evaluation of Aquatic environMents (STREAM) work, what the data looks like, and how to use STREAM to access it.
+
+Date: July 1, 2026
+Time: 2:00 pm ET
+
+<img  alt="image" src="https://github.com/user-attachments/assets/203e84df-fe89-486c-a299-b7e098077d64" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0176f20c-1f9f-4f34-ab2a-89eeaceaf1bd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c9935d9-9a09-4f0a-b3a7-1b6abd4cd72d" />
+
+<img   alt=" @nbcnews @usatoday @newshour @nasa-jpl @la-county-isd " src="https://github.com/user-attachments/assets/f19655ee-0ee3-4277-bc1a-952181851009" />
+
+
+
+@emit-sds @nasa-giss
+@nasa-openscapes @howard-university-web-services @blackgirlscode @cityoflosangeles 
+[https://teams.microsoft.com/v2/?meetingjoin=true#/meet/243001884603508?p=BuSuimKs4b5RayYfDp&anon=true&lightExperience=true&correlationId=ff7523ba-787a-41bf-9661-a37dc1eb13f4&anon=true&deeplinkId=06b9970a-fd04-46f6-8580-f00807378d35&launchAgent=join_launcher_web](https://teams.microsoft.com/v2/?meetingjoin=true#/meet/243001884603508?p=BuSuimKs4b5RayYfDp&anon=true&lightExperience=true&correlationId=ff7523ba-787a-41bf-9661-a37dc1eb13f4&anon=true&deeplinkId=06b9970a-fd04-46f6-8580-f00807378d35&launchAgent=join_launcher_web) ///////// [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13209686.60/4627701.60&layers=aqv_chla_20260611_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13209686.60/4627701.60&layers=aqv_chla_20260611_sentinel:1.00:0.00:30.00:default)
+
+```html
+Error: <html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f5f8c1dc-90ca-4092-bea3-01126f79e905" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/dc79359d-1698-4d4c-830a-07e216733b82" />
+
 # AnimalFarm 1954
 
 [imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit @NBCNEWS ](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) [@hOWARD-uNIVERSITY-Web-Services @nasa-pds ~ > LANAhaRRIS](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/) // [@foratlanta](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
