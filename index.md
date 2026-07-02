@@ -82,6 +82,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 [Spirit of Discernment `SomeOtherTime` @nasa-pds @stateofcalifornia @cityoflosangeles - miss jill `scott`](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
 
+![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg)
 
 
 [<video controls src="https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm" />](https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm)
@@ -493,6 +494,8 @@ About [Tinashe](https://www.tinashenow.com/home)., using the above repo i was ke
 _la92_ _@natgeosociety_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uaotkHlHJwo?si=xQRkP0-9Agj42A2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg)
 
 Over twenty-five years after the verdict in the Rodney King trial sparked several days of protests and violence in Los Angeles, LA92 immerses viewers in that tumultuous period through stunning and rarely-seen footage. Produced by Oscar winner Simon Chinn and Emmy winner Jonathan Chinn and directed by Oscar winners Dan Lindsay and TJ Martin, the film brings a fresh perspective to a pivotal moment and adds perspective to what we are seeing in the world today. https://on.natgeo.com/3cliwfe
 
