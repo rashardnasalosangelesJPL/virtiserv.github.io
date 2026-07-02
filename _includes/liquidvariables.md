@@ -4,8 +4,8 @@ TLDR;
 
 ```html
 {% raw %}
-          <a href="https://thakarashard.github.io/">ThakaRashard</a>
-          <a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
+<a href="https://thakarashard.github.io/">ThakaRashard</a>
+<a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
 {% endraw %}
 ```
 
