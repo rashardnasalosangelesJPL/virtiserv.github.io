@@ -1,14 +1,18 @@
 ### Portable Variables
 -incomplete
 TLDR; 
+
+```html
 {% raw %}
           <a href="https://thakarashard.github.io/">ThakaRashard</a>
           <a href="{{ site.url }}{{ site.baseurl }}/rashardmro">RashardMRO</a>
 {% endraw %}
+```
 
 Disaster can strike at anytime resulting in missing web links you desparately need to communicate. Recovering a simple webpage, workspace, environemnt or pipeline can be crippling to functioning normally! If the source domain changes, you may still have your files! Coming from the world of hypervisors [hostnames]() change rapidly. In the normal world of everyday computing this comes in the form of theft, fire, malicious sabotage, depression related things liek forgetting it on the train, oh and then thers being poisoned! 
 
 Static MArkup files like traditional HTML you would access through cPANEL [Y2k]() have a long history of methods to clean up! `sed -i 's/old-text/new-text/g' input.txt` -[cite cyberciti.biz](https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/) will replace all the old domain information with the new
+
 ```html
 <a href="https://thakarashard.github.io/">ThakaRashard</a>
 <a href="https://ricothaka.github.io/rashardmro">RashardMRO</a>
