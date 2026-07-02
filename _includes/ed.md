@@ -21,25 +21,28 @@ as far as blogging goes, if you run `cat` + `RegEx` it will print everything nea
 ### Ed example as found in
 `The Unix Programming Environment`
 
-```
-^_^]^K
-^LCHAPTER 1
+```shell
+CHAPTER 1
 ^_^]UNIX FOR BEGINNERS 13
-^_^]What files are out ther
-e?
-Let's create two files, jun
-k and temp, so we know what
- we have:
+^_^]
+What files are out there?
+Let's create two files, junk
+and temp, so we know what we have:
 $ ed
 a
-To be or not to be         ^_^]w junk                 19                         q
+To be or not to be       
+w junk
+ 19
+  q
 
 $ ed
 a
 That is the question.
-^_^]w temp
+w temp
 22
-q                          $                          ^_^]The character counts from ed include the character at the end of each line,  called newline, which is how the system represents RETURN.
+q
+ $                       
+The character counts from ed include the character at the end of each line,  called newline, which is how the system represents RETURN.
 
 ```
 [DataMAnagement](https://daac.ornl.gov/datamanagement/)
