@@ -20,6 +20,7 @@ as far as blogging goes, if you run `cat` + `RegEx` it will print everything nea
 
 ### Ed example as found in
 `The Unix Programming Environment`
+The character counts from `ed` include the character at the end of each line, called newline, which is how the system represents RETURN.
 
 ```shell
 CHAPTER 1
@@ -42,9 +43,11 @@ w temp
 22
 q
  $                       
-The character counts from ed include the character at the end of each line,  called newline, which is how the system represents RETURN.
+
 
 ```
+
+
 [DataMAnagement](https://daac.ornl.gov/datamanagement/)
 
 
