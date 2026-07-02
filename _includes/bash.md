@@ -13,4 +13,4 @@ The --posix option caught my attention this morning. I wonder how it will effect
 </video>
 
 
-[ZSH](https://x.com/RicoThaka/status/1837953710481461392)
+[ZSH](https://ohmyz.sh/)
