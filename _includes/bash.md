@@ -4,7 +4,7 @@ The --posix option caught my attention this morning. I wonder how it will effect
 
 
 
-<video width=auto height=auto controls>
+<video width="300" height=auto controls>
  
  <source src="https://ia801507.us.archive.org/35/items/vid-20250306-090621/screen-20250306-092549.mp4" type="video/mp4">
  
