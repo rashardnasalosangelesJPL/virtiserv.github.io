@@ -70,6 +70,9 @@ Dec. 20, 2019 | By [Jim Garamone](https://www.war.gov/News/Author/58550/jim-gara
 
 
 [<video controls poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG" src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4)
+
+![https://media.defense.gov/2019/Dec/21/2002228320/-1/-1/0/191220-D-AP390-1159C.JPG](https://media.defense.gov/2019/Dec/21/2002228320/-1/-1/0/191220-D-AP390-1159C.JPG)
+
 [https://images.nasa.gov/](https://images.nasa.gov/)
 <img  alt="image" src="https://github.com/user-attachments/assets/77802916-fb89-4bc6-ae48-cc14efe8f021" />
 
