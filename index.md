@@ -70,6 +70,20 @@ Dec. 20, 2019 | By [Jim Garamone](https://www.war.gov/News/Author/58550/jim-gara
 
 
 [<video controls poster="https://media.defense.gov/2024/Jul/17/2003504898/2000/2000/0/240716-D-AF999-2001.PNG" src="https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4" />](https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110409447/DOD_110409447-1024x576-2000k.mp4)
+
+## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
+[DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+
+Landed Safely
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/efd84d70-79f3-4b89-9af8-cc925d0a8e48)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/ca63a399-badc-4b60-83a5-c7cd6702ac8e)
+
+@NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
+[MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
+~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
+~~Live Views~~ [LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
+
 [https://images.nasa.gov/](https://images.nasa.gov/)
 <img  alt="image" src="https://github.com/user-attachments/assets/77802916-fb89-4bc6-ae48-cc14efe8f021" />
 
