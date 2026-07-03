@@ -3,6 +3,41 @@ layout: default
 ---
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
+
+<pre>
+
+                      ______
+                     /|      ;
+      HAPPY        ,'/       |   _______.._    __          _,.-''--,
+              _,-'`.'        | /|        | |/;'  |      .'` /      |
+             |::_.'  /|      || .-,    .-| |:|   |     /  ::|  ,---'
+           ,_.-'  ._'_|      '-/ /|    |:| |_'   |     | _ _|  |__
+       _,-'|                   |':|    | |  _.   |  _.-'` |       |
+     |`  ::|                   || |    | | |.|   | |  _,._|_      |
+     |    :, _____            _;| |    | | |:|   |.-:''_`'. |   .-'
+     |  _,-'`  _.-'          |.'._|____|_|_|_|__ | / .' `\ \|   |
+     |_:.___,-'  |           |/|                `;:| |:. | ;|   |
+           |:::  |           | |'                |:\  '-'  /|   |
+           |:    |           |_.__________.......;__:..__.'-'.--------.
+           |___._|___...,---='. .-----.-'""";-;"'   ' '\'.::/        /
+          ."" ""|       |     |:'     |     |  \        \::/        /
+          |     |       |     ||      |     |   `.       `'        /
+          |     |       |     ||      |     |     \               ,
+          |     |       |     |;      |     |\  :::`.            /
+   ___.,__|_ :::|       |     '/      |     | \  ::::\          /
+ |`'--.-''  | ::|       |             |     |_|_____  |        |
+ |    |      \_,'       |             |             `.'        |
+ |    |                 |             |              ||        |
+ ;    |                 |             |              ||        |
+ '    ;                ;'             |              |;        |
+  \ :::\              /::\           /|              ||        |mx||/
+||/'. ::;       _\\||-''--`\|.____,.'-\\|..\|/"""----""''''\\||/''||
+  \\|`'--`'---'`  -.___||/                     --''.___,|/
+
+</pre>
+
+
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
@@ -67,6 +102,7 @@ _The Lana Rundown_
 [MathJax @howard-university-web-services @blackgirlscode](https://docs.mathjax.org/en/latest/output/index.html)
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
 <pre>
 
