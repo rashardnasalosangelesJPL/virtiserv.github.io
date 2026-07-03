@@ -15,7 +15,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
 [https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
 
-# [codepen.io/_`RashardKElly`_/pen/jEyaRGj](https://codepen.io/RashardKElly/pen/jEyaRGj)
+
+
 <div class="tupperware" markdown="1">
 	
 [<video controls src="https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4" />](https://archive.org/download/longbeach_202605/000_SPACEBEACH_GoogleFontInstallForVirtiservBaeLAtriceRecording%202026-07-03%20121238.mp4)
@@ -24,7 +25,18 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 </div>
 
+ [codepen.io/_`RashardKElly`_/pen/jEyaRGj](https://codepen.io/RashardKElly/pen/jEyaRGj)
+[codepen.io/thakarashard/pen/LYdgvbd](https://codepen.io/thakarashard/pen/LYdgvbd)
+<img  alt="image" src="https://github.com/user-attachments/assets/4e1d14c8-8d7d-40e2-a183-8443dfdbf554" />
+
+[ codepen.io/thakarashard/pen/XWExReO](https://codepen.io/thakarashard/pen/XWExReO)
+<img  alt="image" src="https://github.com/user-attachments/assets/5233ffa1-77bf-4f9e-b51a-51f27b4af5db" />
+
 <img src="https://winworldpc.com/res/img/screenshots/final-65d6e19fecb4b8ad90d02178bbce0dd6-w2kboot.png">
+
+[codepen.io/thakarashard/pen/yLKxPXy](https://codepen.io/thakarashard/pen/yLKxPXy)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ff75e8cd-62e3-451a-b465-094897e4687d" />
 
 Writing Mathematics for MathJax        
 [@blackgirlscode @nasa-pds](https://github.com/mathjax/MathJax-demos-web)
