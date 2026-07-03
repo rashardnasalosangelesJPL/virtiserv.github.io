@@ -6,7 +6,95 @@ image: mermaid.webp
 mathjax: true
 ---
 
-[https://talk.jekyllrb.com/t/jekyll-and-mathjax-how-to-configure-specific-inline-and-display-math/9551/8](https://talk.jekyllrb.com/t/jekyll-and-mathjax-how-to-configure-specific-inline-and-display-math/9551/8) // [https://talk.jekyllrb.com/t/jekyll-and-mathjax/5514/2](https://talk.jekyllrb.com/t/jekyll-and-mathjax/5514/2)
+
+
+# MathJax : [demo](https://mathjax.github.io/MathJax-demos-web/page/tex-chtml.html)
+ [https://mathjax.github.io/MathJax-demos-web/](https://mathjax.github.io/MathJax-demos-web/) 
+ @nasa-pds @cityoflosangeles [talk.jekyllrb.com/t/jekyll-and-mathjax-how-to-configure-specific-inline-and-display-math/9551/8](https://talk.jekyllrb.com/t/jekyll-and-mathjax-how-to-configure-specific-inline-and-display-math/9551/8) // [talk.jekyllrb.com/t/jekyll-and-mathjax/5514/2](https://talk.jekyllrb.com/t/jekyll-and-mathjax/5514/2)
+ 
+<p>
+  When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</p>
+
+<h2>The Lorenz Equations</h2>
+
+<p>
+  \begin{align}
+    \dot{x} & = \sigma(y-x) \\
+    \dot{y} & = \rho x - y - xz \\
+    \dot{z} & = -\beta z + xy
+  \end{align}
+</p>
+
+<h2>The Cauchy-Schwarz Inequality</h2>
+
+<p>\[
+  \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+ \]</p>
+
+ <h2>A Cross Product Formula</h2>
+
+ <p>\[
+   \mathbf{V}_1 \times \mathbf{V}_2 =
+     \begin{vmatrix}
+       \mathbf{i} & \mathbf{j} & \mathbf{k} \\
+       \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
+       \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
+     \end{vmatrix}
+\]</p>
+
+<h2>The probability of getting \(k\) heads when flipping \(n\) coins is:</h2>
+
+<p>\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]</p>
+
+<h2>An Identity of Ramanujan</h2>
+
+<p>\[
+  \frac{1}{\left(\sqrt{\phi \sqrt{5}}-\phi\right) e^{\frac25 \pi}} =
+    1 + \dfrac{e^{-2\pi}}{
+      1 + \dfrac{e^{-4\pi}}{
+        1 + \dfrac{e^{-6\pi}}{
+          1 + \dfrac{e^{-8\pi}}{1+\ldots}
+        }
+      }
+    }
+\]</p>
+
+<h2>A Rogers-Ramanujan Identity</h2>
+
+<p>\[
+  1 + \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots =
+    \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})},
+     \quad\quad \text{for $|q| < 1$}.
+\]</p>
+
+<h2>Maxwell's Equations</h2>
+
+<p>
+  \begin{align}
+    \nabla \times \vec{\mathbf{B}}\, - \frac{1}{c}\, \frac{\partial\vec{\mathbf{E}}}{\partial t}
+       & = \frac{4\pi}{c}\vec{\mathbf{j}} \\[3pt]
+    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\[3pt]
+    \nabla \times \vec{\mathbf{E}}\, + \frac{1}{c}\, \frac{\partial\vec{\mathbf{B}}}{\partial t}
+        & = \vec{\mathbf{0}} \\[3pt]
+    \nabla \cdot \vec{\mathbf{B}} & = 0
+  \end{align}
+</p>
+
+<h2>In-line Mathematics</h2>
+
+<p>Finally, while display equations look good for a page of samples, the
+ability to mix math and text in a paragraph is also important.  This
+expression $\sqrt{3x-1}+(1+x)^2$ is an example of an inline equation.  As
+you see, MathJax equations can be used this way as well, without unduly
+disturbing the spacing between lines.</p>
+## Further reading
+
+* [The MathJax website](http://mathjax.org)
+* [Getting started with writing and formatting on GitHub](/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 # Mermaid Sequence Diagram: Blogging app service communication
 
@@ -162,50 +250,6 @@ SearchContext <|-- SkipSearchContext
 
 </div>
 
-
-
-```text
-**The Cauchy-Schwarz Inequality**\
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-```
-
-![Screenshot of rendered Markdown showing a complex equation. Bold text reads "The Cauchy-Schwarz Inequality" above the formula for the inequality.](/assets/images/help/writing/math-expression-as-a-block-rendering.png)
-
-Alternatively, you can use the <code>\`\`\`math</code> code block syntax to display a math expression as a block. With this syntax, you don't need to use `$$` delimiters. The following will render the same as above:
-
-````text
-**The Cauchy-Schwarz Inequality**
-
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-```
-````
-
-## Writing dollar signs in line with and within mathematical expressions
-
-To display a dollar sign as a character in the same line as a mathematical expression, you need to escape the non-delimiter `$` to ensure the line renders correctly.
-
-* Within a math expression, add a `\` symbol before the explicit `$`.
-
-  ```text
-  This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
-  ```
-
-  ![Screenshot of rendered Markdown showing how a backslash before a dollar sign displays the sign as part of a mathematical expression.](/assets/images/help/writing/dollar-sign-within-math-expression.png)
-
-* Outside a math expression, but on the same line, use span tags around the explicit `$`.
-
-  ```text
-  To split <span>$</span>100 in half, we calculate $100/2$
-  ```
-
-  ![Screenshot of rendered Markdown showing how span tags around a dollar sign display the sign as inline text not as part of a mathematical equation.](/assets/images/help/writing/dollar-sign-inline-math-expression.png)
-
-## Further reading
-
-* [The MathJax website](http://mathjax.org)
-* [Getting started with writing and formatting on GitHub](/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 [codepen.io/ricoThaka/pen/GgRdwGd](https://codepen.io/ricoThaka/pen/GgRdwGd)
 <img alt="image" src="https://github.com/user-attachments/assets/7ee591aa-18be-4bd6-ad98-365d0d08c814" />

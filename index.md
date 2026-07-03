@@ -3,43 +3,62 @@ layout: default
 ---
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
 
-<pre>
-
-                      ______
-                     /|      ;
-      HAPPY        ,'/       |   _______.._    __          _,.-''--,
-              _,-'`.'        | /|        | |/;'  |      .'` /      |
-             |::_.'  /|      || .-,    .-| |:|   |     /  ::|  ,---'
-           ,_.-'  ._'_|      '-/ /|    |:| |_'   |     | _ _|  |__
-       _,-'|                   |':|    | |  _.   |  _.-'` |       |
-     |`  ::|                   || |    | | |.|   | |  _,._|_      |
-     |    :, _____            _;| |    | | |:|   |.-:''_`'. |   .-'
-     |  _,-'`  _.-'          |.'._|____|_|_|_|__ | / .' `\ \|   |
-     |_:.___,-'  |           |/|                `;:| |:. | ;|   |
-           |:::  |           | |'                |:\  '-'  /|   |
-           |:    |           |_.__________.......;__:..__.'-'.--------.
-           |___._|___...,---='. .-----.-'""";-;"'   ' '\'.::/        /
-          ."" ""|       |     |:'     |     |  \        \::/        /
-          |     |       |     ||      |     |   `.       `'        /
-          |     |       |     ||      |     |     \               ,
-          |     |       |     |;      |     |\  :::`.            /
-   ___.,__|_ :::|       |     '/      |     | \  ::::\          /
- |`'--.-''  | ::|       |             |     |_|_____  |        |
- |    |      \_,'       |             |             `.'        |
- |    |                 |             |              ||        |
- ;    |                 |             |              ||        |
- '    ;                ;'             |              |;        |
-  \ :::\              /::\           /|              ||        |mx||/
-||/'. ::;       _\\||-''--`\|.____,.'-\\|..\|/"""----""''''\\||/''||
-  \\|`'--`'---'`  -.___||/                     --''.___,|/
-
-</pre>
-
-
-## Rashard Kelly 
+## ReportCompiling by: Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+[Queen Latifah Opens Up About a Private Battle - Red Table Talk @foratlanta](https://www.youtube.com/watch?v=vgn4y83wXJg)
+
+Writing Mathematics for MathJax        
+[@blackgirlscode @nasa-pds](https://github.com/mathjax/MathJax-demos-web)
+github.com/mathjax/MathJax-docs _MathJax documentation. Beautiful math in all browsers. Beautifully documented._ @la-county-isd 
+
+ 
+<p>
+  When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</p>
+
+<h2>The Lorenz Equations</h2>
+
+<p>
+  \begin{align}
+    \dot{x} & = \sigma(y-x) \\
+    \dot{y} & = \rho x - y - xz \\
+    \dot{z} & = -\beta z + xy
+  \end{align}
+</p>
+
+<h2>The Cauchy-Schwarz Inequality</h2>
+
+<p>\[
+  \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
+  \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+ \]</p>
+
+ <h2>A Cross Product Formula</h2>
+
+ <p>\[
+   \mathbf{V}_1 \times \mathbf{V}_2 =
+     \begin{vmatrix}
+       \mathbf{i} & \mathbf{j} & \mathbf{k} \\
+       \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\
+       \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \\
+     \end{vmatrix}
+\]</p>
+
+<h2>The probability of getting \(k\) heads when flipping \(n\) coins is:</h2>
+
+<p>\[P(E) = {n \choose k} p^k (1-p)^{ n-k} \]</p>
+
+[more on virtiserv/computing](https://ra5hard.github.io/_virtiserv/2026/06/30/computing.html)
+
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
+@la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
+
+@nasa-jpl [MrTrump on and off it seems @nasa-pds @blackgirlscode 730 he on @nasa-jpl idk what time zone] [@whitehouse .gov/live JULy3rd](https://www.whitehouse.gov/live/) [@howard-university-web-services](https://www.facebook.com/GrandHustleBET/)
+<img alt="image" src="https://github.com/user-attachments/assets/96174447-7262-4514-889d-e12b6b620d20" />
 
 ## The MK Ultra Revelations They Tried to Bury
 _The Lana Rundown_
