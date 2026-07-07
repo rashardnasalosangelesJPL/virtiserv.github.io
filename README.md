@@ -10,6 +10,7 @@
 
 To use the Architect theme:
 
+
 1. Add the following to your site's `_config.yml`:
 
     ```yml
