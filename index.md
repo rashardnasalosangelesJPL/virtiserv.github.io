@@ -7,6 +7,8 @@ layout: default
 ## ReportCompiling by: Rashard Kelly 
 MRO JUNO iSS CASSiNi [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+Contact your system administrator for more info.
+<img  alt=" @nasa-jpl i am going insane i need my id cleared for my own computer i was trying to talk to QTS about @spacex on proofpoint its like the shit can be fixed today and we are still under ipo scrutiny!!!!!!!!!!!!!!!!! @nbcnews @la-county-isd the library blocked windows command line access and i use it to troubleshoot dns while out in the firled @fbicyber @cisagov @Doug-newman-nasa when i tried to grab a prompt i got Contact your system administrator for more info. I cannot run batch jobs or anything anymore its such an inconvienience!!!!!!!!!! @longbeachinnovationteam Rex Richardson @la-county-isd Holly Mitchell i hope i dont get poinsoned @blackgirlscode " src="https://github.com/user-attachments/assets/7100d6f8-b876-409f-b0c0-256aa3290395" />
 
 Huygens Landing on Titan
 @esa @whitehouse @nasa-jpl [watch](https://youtu.be/sZC4u0clEc0?si=MJLJ3g9rTE4WANS3) // [Download](https://github.com/virtiserv/virtiserv.github.io/raw/refs/heads/master/assets/video/Huygens%20Landing%20on%20Titan.mp4)
