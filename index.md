@@ -3,6 +3,28 @@ layout: default
 ---
 
 
+# Trice
+@nasa-jpl @howard-university-web-services @nasa-pds 
+Trice, this is my homework [[ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf) 
+ // [ARSET-Floods2026-part2-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part2-exercise.pdf) // [ARSET-Floods2026-part3-exercise_0.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
+++++++++ [docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1) @cityoflosangeles @stateofcalifornia @foratlanta [@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/)  @newshour @nbcnews [vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+
+```
+
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+Attachments
+5:29 PM (2 minutes ago)
+to nasa.arset, 23297@lapd.online, development, councilmember.harris-dawson@lacity.org, dsnnow@jpl.nasa.gov, douglas.j.newman@nasa.gov, ds_legal@isro.gov.in, mmaddox@dekalbcountyga.gov, governor, contact.lapdonline@gmail.com, ksc-newsroom@mail.nasa.gov, georgia.governor@gov.state.ga.us, The, phylicia.rashad@howard.edu, centcom.macdill.centcom-hq.mailbox.community-relations@mail.mil, jasmine.crockett@mail.house.gov, karen.c.fox@nasa.gov, usarmy.irwin.ntc.mbx.ft-irwin-pao@army.mil, usn.ncr.dns.mbx.don-foia-pa@us.navy.mil, david.williams@asu.edu, Whs, Jennifer, publicaffairs.spl@usace.army.mil, senator@billnelson.senate.gov, HollyJMitchell@bos.lacounty.gov, info@hot97.com, William, kathryn@bos.lacounty.gov, letschat@virtiserv.com, operations@wearebgc.org, customer_services_dfcs@dhs.ga.gov, earthdata-support@nasa.gov, keishaforgovernor@gmail.com, GovernorRon.Desantis, RRowse@santabarbaraca.gov, normani@fifthharmonyofficial.com, benefits@howard.edu, santespatiale-spacehealth, jisaacman@shift4.com, chance_saltzman@spaceforce.mil, 45WS.WXR.AirfieldRangeWxOps@us.af.mil, 452FSS.AFRC.TAP@us.af.mil, esanic@esa.int, education@esa.int, isee@nbclosangeles.com, GBI.CrimeLab@gbi.ga.gov, mayor.helpdesk@lacity.org, bos@sfgov.org, marta.board, answers@usgs.gov, andrew.feldman@nasa.gov, NBCNewsMediaRelations@nbcuni.com, Bill.Lee@tn.gov, info, nkordei@valdosta.edu, Normaniofficial@outlook.com, Usarmy, usarmy.benning.imcom.mbx.pao@army.mil, ROC@jpl.nasa.gov, smallbusiness.programsoffice@jpl.nasa.gov, mayor@longbeach.gov, district2@longbeach.gov, jamie.wilson.wicks, keith.gaddis, gerald.f.guala@nasa.gov, adrienne.l.streater, simon.j.hook@jpl.nasa.gov, rallen, jbfisher@chapman.edu, lanajharris@gmail.com, tinyharris@gmail.com, press@hot97.com, hotatlmusic, tiny.harris, info@keishaforgovernor.com, homiehelpline@power106.com, Secretary.Weber@sos.ca.gov, lbpl_reference@lbpl.org
+
+@mayor@longbeach.gov i cannot finish my homework can you help me get an extension @earthdata-support@nasa.gov  ? @lbpl_reference@lbpl.org 
+archive.org/download/mydocs_202607/GeoglowsNOTWORKiNGiNLOGBEACH_RASHARDKELLY_NASAEARTHDATA_MAY_I_HAVE_AN_EXTENSiON_ViRTiSERV_PLZ_fwd_to_SBO_for_adviceRecording%202026-07-08%20172448.mp4 @nasa.arset@gmail.com @douglas.j.newman@nasa.gov @keishaforgovernor@gmail.com @letschat@virtiserv.com @normani@fifthharmonyofficial.com @lanajharris@gmail.com @HollyJMitchell@bos.lacounty.gov @phylicia.rashad@howard.edu @Secretary.Weber@sos.ca.gov 
+
+On Wed, Jul 8, 2026 at 10:55 AM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5cbf7ede-6b2c-4242-ad86-d50e5f7eca73" />
+
+
 
 ## ReportCompiling by: Rashard Kelly 
 MRO JUNO iSS CASSiNi [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
