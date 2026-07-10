@@ -112,6 +112,13 @@ If you'd like to preview the theme locally (for example, in the process of propo
 4. Run `bundle exec jekyll serve` to start the preview server
 5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
+
+<img width="446" height="448" alt="LATRiCEFitZPATRiCKimages" src="https://github.com/user-attachments/assets/64ebd00a-d08a-4652-a62e-2c4732a89f1e" />
+<img width="192" height="240" alt="LATRiCEFiTZPATRiCKimages1" src="https://github.com/user-attachments/assets/4f229e30-7a27-40ce-9e95-f473e264da3c" />
+<img width="335" height="597" alt="LATRiCEViRTiSERVFiTZPATRiCKimages" src="https://github.com/user-attachments/assets/f8fcff6c-dafd-4e16-9438-a95d7f405ec4" />
+
+
+
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
