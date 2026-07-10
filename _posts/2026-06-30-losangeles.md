@@ -21,7 +21,7 @@ permalink: losangeles
   
 </picture>
 
- -
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
 
 <iframe src="https://archive.org/embed/lafires_tempo_20250106_lrg" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
  [ECOSTRESSGallery](https://ecostress.jpl.nasa.gov/gallerylist)
